@@ -2,30 +2,28 @@
 {% include sidebar.html %}
 
 
-#### This is my example basic resume, for people to learn how to use gitpages to create a resume for the workshop "Open CV" at the [Research Bazaar Qld Conference 2021](https://resbaz.github.io/resbaz2021qld/) . Learn [How I Made this here](https://amandamiotto.github.io/Portfolio/HowIMadeThis) .
-
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Engineer of Physics Specialist Degree (Equivalent to Masters) | Tomsk Polytechnic University          | 2009-2015 |
-| Carpentry Instructor | The Carpentries | 2015 |
-| Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
+| Doctor of Philosophy | Griffith University | 2018-2022 |
+
 
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
+|Tomsk Open Laboratory for Material Inspection (Tomsk Polytechnic University) |Researcher        |2015-2018|
+|Griffith University      |PhD Student       |2018-Present|
+|Griffith University|Tutor for Calculus II |2019-2020|
+|Griffith University|Tutor for Research Methods for Engineers |2018-2021|
+|Griffith University|TCasual Lecturere for Research Methods for Engineers |2021|
 
 ## Skills
 
-- Intermediate skills in:
+- Programming skills in:
+  - MATLAB
   - Python
-  - R
-  - Linux/Bash
-  - SQL
+
 - Communication across different audiences
 - Writing a Github Page Resume then teaching it
 
