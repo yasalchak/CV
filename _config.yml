@@ -4,6 +4,6 @@ fullnameofperson: Yana Salchak
 selfIdentification: PhD Candidate | Biomedical Engineering
 colour1: " #d2b4de"  # sidebar background 
 colour2: "#a3cef1"  # colour of name and desc
-colour3: "#a3cef1"  # colour of Menu links
+colour3: " #1f618d"  # colour of Menu links
 colour4: "#e79583" # trying to be background colour - still experimenting 
 colour5: "#e7ecef" # menu link colour when hover
