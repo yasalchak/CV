@@ -4,7 +4,7 @@
 body {
   margin-left: 10%; /* Same as the width of the sidebar */
   padding: 5% 10%;
-  background-color: {{ site.colour2 }};
+  background-color: {{ site.colour5 }};
 }
 
 /* The sidebar menu */
@@ -56,7 +56,7 @@ body {
 .main {
   margin-left: 20%; /* Same as the width of the sidebar 
   padding: 5% 20%;
-  background-color: {{ site.colour4 }};
+  background-color: {{ site.colour5 }};
 }*/
 
 
