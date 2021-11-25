@@ -8,4 +8,4 @@
 #### See the results
 [https://amandamiotto.github.io/Portfolio/HowIMadeThis](https://amandamiotto.github.io/Portfolio)
 
-:+1: This PR looks great 
+:+1: 
