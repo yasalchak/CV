@@ -7,7 +7,7 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland          | 2003-2007 |
+| Engineer of Physics Specialist Degree (Equivalent to Masters) | Tomsk Polytechnic University          | 2009-2015 |
 | Carpentry Instructor | The Carpentries | 2015 |
 | Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
 
