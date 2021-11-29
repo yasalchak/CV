@@ -20,11 +20,16 @@
 
 ## Skills
 
-- Programming skills in:
-  - MATLAB
-  - Python
+- Conducting multidisciplinary research
+- Preparing and writing scientific publications 
+- Writing of grant proposal and white papers 
+- CST modelling
+- High level of presentation skills with experience of presenting results to large international audiences
 
-- Communication across different disciplines
+- Programming skills:
+  - MATLAB 
+  - Python
+  - Introductuary level of R 
 
 
 ## Publications
