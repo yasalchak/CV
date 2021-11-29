@@ -2,11 +2,9 @@
 ---
 
 body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
-  margin-left: 10%; /* Same as the width of the sidebar */
+    margin-left: 10%; /* Same as the width of the sidebar */
   padding: 5% 10%;
-  background-color: {{ site.colour5 }};
+  background-color: {{ site.colour3 }};
 }
 
 /* The sidebar menu */
