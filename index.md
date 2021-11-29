@@ -33,7 +33,7 @@
 
 
 ## Publications
-[Duck Duck Go](https://duckduckgo.com)
+
 
 [Google scholar profile](https://scholar.google.com.au/citations?user=uEniMtkAAAAJ&hl=en&oi=ao )
 
@@ -88,11 +88,11 @@ Research Bazaar combines Software Carpentry workshops with talks relevant to ear
 Wrote a handbook on how to start and run hacky hour groups at an institute with lessons learnt, helpful resources and groups to target. Released as Creative Commons [Link here](https://github.com/amandamiotto/HackyHourHandbook)
 
 
-![alt text](https://github.com/yasalchak/CV/blob/0284f744eef9194ed56e20ba416081a3580c0f61/assets/LinkedInLogo.png "LinkedInLogo")
+![alt text](https://github.com/yasalchak/CV/blob/0284f744eef9194ed56e20ba416081a3580c0f61/assets/LinkedInLogo.png)
 
 ![alt text][logo]
 
-[logo]:https://github.com/yasalchak/CV/blob/450d866542080ee880c8750a0f9c311df3ec5aba/assets/Outlook.com-Logo.wine.jpg "Outlook.com-Logo.wine" 
+[logo]:https://github.com/yasalchak/CV/blob/450d866542080ee880c8750a0f9c311df3ec5aba/assets/Outlook.com-Logo.wine.jpg
 
 
 This page was last updated {{ site.datelastupdated }} .
