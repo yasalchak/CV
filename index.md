@@ -87,7 +87,7 @@ Research Bazaar combines Software Carpentry workshops with talks relevant to ear
 Wrote a handbook on how to start and run hacky hour groups at an institute with lessons learnt, helpful resources and groups to target. Released as Creative Commons [Link here](https://github.com/amandamiotto/HackyHourHandbook)
 
 
-![alt text](https://github.com/yasalchak/CV/blob/d9eb72eeec94353b45f9deae03f9952f92b53637/assets/Linkedin.svg)
+![alt text](https://github.com/yasalchak/CV/blob/0284f744eef9194ed56e20ba416081a3580c0f61/assets/LinkedInLogo.png)
 
 ![alt text][logo]
 
