@@ -4,7 +4,7 @@
 body {
     margin-left: 10%; /* Same as the width of the sidebar */
   padding: 5% 10%;
-  background-color: {{ site.colour3 }};
+  background-color: {{ site.colour4 }};
 }
 
 /* The sidebar menu */
@@ -49,14 +49,14 @@ body {
 
 /* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
-  color: {{ site.colour5 }};
+  color: {{ site.colour4 }};
 }
 
 /* Style page content 
 .main {
   margin-left: 20%; /* Same as the width of the sidebar 
   padding: 5% 20%;
-  background-color: {{ site.colour5 }};
+  background-color: {{ site.colour4 }};
 }*/
 
 
