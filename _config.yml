@@ -2,8 +2,8 @@ description: This is a template researchers can walk away with and create their 
 datelastupdated: 25 Nov 2021
 fullnameofperson: Yana Salchak
 selfIdentification: PhD Candidate | Biomedical Engineering
-colour1: "  #ec7063"  # sidebar background 
-colour2: " #2e4053"  # colour of name and desc
-colour3: " #1f618d"  # colour of Menu links
-colour4: " #edbb99 " # trying to be background colour - still experimenting 
-colour5: "#e7ecef" # menu link colour when hover
+colour1: "  #1163da"  # sidebar background 
+colour2: " #e5f712"  # colour of name and desc
+colour3: " #f5820e"  # colour of Menu links
+colour4: " #1163da " # trying to be background colour - still experimenting 
+colour5: "#1f199e" # menu link colour when hover
