@@ -35,7 +35,7 @@
 ## Publications
 [Duck Duck Go](https://duckduckgo.com)
 
-[Google scholar profile] (https://scholar.google.com.au/citations?user=uEniMtkAAAAJ&hl=en&oi=ao "Google Scholar Profile")
+[Google scholar profile](https://scholar.google.com.au/citations?user=uEniMtkAAAAJ&hl=en&oi=ao )
 
 **Acceso a recursos de cómputo de alto rendimiento mediante correo electrónico (Access to high performance computing resources via email)**
 Estévez-Velarde, S., Miotto, A., Bolufé-Röhler, A., & Chen, S. 2014
