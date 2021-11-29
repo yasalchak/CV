@@ -93,7 +93,7 @@ Wrote a handbook on how to start and run hacky hour groups at an institute with 
 
 ![logo]
 
-[logo]:assets/Outlook.com-Logo.wine.jpg "Outlook.com-Logo.wine"
+[logo]:assets/Outlook_small_icon.png "Outlook.com-Logo.wine"
 
 
 This page was last updated {{ site.datelastupdated }} .
