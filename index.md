@@ -88,7 +88,7 @@ Wrote a handbook on how to start and run hacky hour groups at an institute with 
 
 
 ![alt text](https://github.com/yasalchak/CV/blob/d9eb72eeec94353b45f9deae03f9952f92b53637/assets/Linkedin.svg)
-[logo]: (https://github.com/yasalchak/CV/blob/d9eb72eeec94353b45f9deae03f9952f92b53637/assets/Linkedin.svg)
+[logo]:https://github.com/yasalchak/CV/blob/d9eb72eeec94353b45f9deae03f9952f92b53637/assets/Linkedin.svg
 
 
 This page was last updated {{ site.datelastupdated }} .
