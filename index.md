@@ -91,7 +91,7 @@ Wrote a handbook on how to start and run hacky hour groups at an institute with 
 
 ![alt text][logo]
 
-[logo]:https://github.com/yasalchak/CV/blob/450d866542080ee880c8750a0f9c311df3ec5aba/assets/Outlook.com-Logo.wine.jpg
+[logo]:https://github.com/yasalchak/CV/blob/450d866542080ee880c8750a0f9c311df3ec5aba/assets/Outlook.com-Logo.wine.jpg "Outlook.com-Logo.wine" 
 
 
 This page was last updated {{ site.datelastupdated }} .
