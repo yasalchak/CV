@@ -24,10 +24,12 @@
   - MATLAB
   - Python
 
-- Communication across different audiences
-- Writing a Github Page Resume then teaching it
+- Communication across different disciplines
+
 
 ## Publications
+
+https://scholar.google.com.au/citations?user=uEniMtkAAAAJ&hl=en&oi=ao
 
 **Acceso a recursos de cómputo de alto rendimiento mediante correo electrónico (Access to high performance computing resources via email)**
 Estévez-Velarde, S., Miotto, A., Bolufé-Röhler, A., & Chen, S. 2014
