@@ -33,6 +33,7 @@
 
 
 ## Publications
+[Duck Duck Go](https://duckduckgo.com)
 
 [Google scholar profile] (https://scholar.google.com.au/citations?user=uEniMtkAAAAJ&hl=en&oi=ao "Google Scholar Profile")
 
