@@ -34,7 +34,7 @@
 
 ## Publications
 
-https://scholar.google.com.au/citations?user=uEniMtkAAAAJ&hl=en&oi=ao
+[Google scholar profile] (https://scholar.google.com.au/citations?user=uEniMtkAAAAJ&hl=en&oi=ao "Google Scholar Profile")
 
 **Acceso a recursos de cómputo de alto rendimiento mediante correo electrónico (Access to high performance computing resources via email)**
 Estévez-Velarde, S., Miotto, A., Bolufé-Röhler, A., & Chen, S. 2014
@@ -87,7 +87,7 @@ Research Bazaar combines Software Carpentry workshops with talks relevant to ear
 Wrote a handbook on how to start and run hacky hour groups at an institute with lessons learnt, helpful resources and groups to target. Released as Creative Commons [Link here](https://github.com/amandamiotto/HackyHourHandbook)
 
 
-![alt text](https://github.com/yasalchak/CV/blob/0284f744eef9194ed56e20ba416081a3580c0f61/assets/LinkedInLogo.png)
+![alt text](https://github.com/yasalchak/CV/blob/0284f744eef9194ed56e20ba416081a3580c0f61/assets/LinkedInLogo.png "LinkedInLogo")
 
 ![alt text][logo]
 
