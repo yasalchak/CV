@@ -53,7 +53,7 @@ family status Single |
 
 [Google scholar profile](https://scholar.google.com.au/citations?user=uEniMtkAAAAJ&hl=en&oi=ao )
 [Scopus profile](https://www.scopus.com/authid/detail.uri?origin=resultslist&authorId=56433608400&zone= )
-[Research Gate] (https://www.researchgate.net/profile/Yana-Salchak-2)
+[Research Gate](https://researchgate.net/profile/Yana-Salchak-2)
 
 ???
 
