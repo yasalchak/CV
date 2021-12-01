@@ -21,7 +21,7 @@ family status Single |
 
 | ------------------------------------- | ------------------------------------------- | ----- |
 
-|Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia |Technician |2014-2015|
+|Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia |*Technician* |2014-2015|
 |TOLMI, Institute of NDT, TPU, Russia |Junior Researcher |2015-2018|
 |School of Engineering and Built Environment, Griffith University, QLD Australia   |PhD Student       |2018-Present|
 |School of Engineering and Built Environment, Griffith University, QLD Australia|Tutor for Calculus II |2019-2020|
@@ -88,5 +88,6 @@ Jo P Pauls, Amanda Miotto, Andrew Stephens, Shaun D Gregory, Geoff Tansley 2018
 
 [logo]:assets/Outlook_small_icon.png "Outlook.com-Logo.wine"
 
+<yasalchak@gmail.com> (you may write vaild email links also using [mailto](mailto:yasalchak@gmail.com) as protocol
 
 This page was last updated {{ site.datelastupdated }} .
