@@ -88,6 +88,6 @@ Jo P Pauls, Amanda Miotto, Andrew Stephens, Shaun D Gregory, Geoff Tansley 2018
 
 [logo]:assets/Outlook_small_icon.png "Outlook.com-Logo.wine"
 
-<yasalchak@gmail.com> (or  [mail here](mailto:yasalchak@gmail.com) as protocol
+<yasalchak@gmail.com> (or  [mail here](mailto:yasalchak@gmail.com) )
 
 This page was last updated {{ site.datelastupdated }} .
