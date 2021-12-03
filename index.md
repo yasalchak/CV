@@ -6,7 +6,7 @@
 ## Personal Information
 
 
-data of birth 02.01.1992 |
+date of birth 02.01.1992 |
 gender Female |
 family status Single | 
 current location| Greenslopes, QLD 4120 Australia
@@ -17,7 +17,6 @@ current location| Greenslopes, QLD 4120 Australia
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Doctor of Philosophy | Griffith University | 2018-2022 |
 *Research topic: **Ingested Wireless Capsule Localization Based on In-body RF Attenuation Path Loss*
-
 | Engineer of Physics Specialist Degree (Equivalent to Masters 5.6 years) | National Research Tomsk Polytechnic University (Russia) *(402 QS World Ranking, ranked 4th in Russia in Engineering technologies)* | 2009-2015 |
 **GPA 4.8/5**
 
@@ -61,11 +60,11 @@ Oral presentation at the conference “International congress on ultrasonics”.
 **Tomsk, Russia 2014**
 Oral presentation at the “The IV Conference of Young nuclear scientists of Siberia"
 
-*Griffith University 3-day course “Introduction to Python, Bash and Git for Data Science’’ (July, 2019)
+*Griffith University 3-day course “Introduction to Python, Bash and Git for Data Science’’ (July, 2019)*
 
-*“Author Academy” 2-day intensive training in academic writing and publishing by Nature Research Academies (November, 2017)
+*“Author Academy” 2-day intensive training in academic writing and publishing by Nature Research Academies (November, 2017)*
 
-*National research Tomsk Polytechnic University “Elite Engineering Education Programme” aiming at acquiring competencies in Engineering leadership and innovation (3133 hours, 2009-2014)
+*National research Tomsk Polytechnic University “Elite Engineering Education Programme” aiming at acquiring competencies in Engineering leadership and innovation (3133 hours, 2009-2014)*
 
 ## Grants and Awards
 - Personal education grant, 2020 IEEE Antennas and Propagation Society C. J. Reddy Grant for Graduate Students
