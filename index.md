@@ -16,7 +16,8 @@ current location| Greenslopes, QLD 4120 Australia
 
 | ------------------------------------- | ------------------------------------------- | ----- |
 | Doctor of Philosophy | Griffith University | 2018-2022 |
-*Research topic: **Ingested Wireless Capsule Localization Based on In-body RF Attenuation Path Loss*
+|*Research topic: **Ingested Wireless Capsule Localization Based on In-body RF Attenuation Path Loss*|
+
 | Engineer of Physics Specialist Degree (Equivalent to Masters 5.6 years) | National Research Tomsk Polytechnic University (Russia) *(402 QS World Ranking, ranked 4th in Russia in Engineering technologies)* | 2009-2015 |
 **GPA 4.8/5**
 
