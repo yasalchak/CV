@@ -39,22 +39,32 @@ current location| Greenslopes, QLD 4120 Australia
 ## Conferences/workshops
 **Brisbane, Queensland Australia (vitually due to COVID-19), APMC 2021**
 Preparation of the abstracts for presentations at the Asian Pacific Microwave Conference
+
 **Montreal, Canada (virtually due to COVID19), IEEE APS/URSI 2020**
 Oral presentation “Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function’’ at the 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting.
+
 **Copenhagen, Denmark (virtually due to COVID19), EuCAP 2020**
 Poster “E-Field Distribution in Ex-Vivo Porcine Skin Layer from a Subsurface UHF Transmitter’’ at the 14th European Conference on Antennas and Propagation.
+
 **Sydney, Australia, ASA 2019**
 Oral presentation “Wireless endoscopy localization algorithm based on surface electric field distribution’’ at the 16th Australian Symposium on Antennas.
+
 **Ronneby, Sweden, August 2017**
 RACIRI Summer School “Grand Challenges and Opportunities with the Best X-ray and Neutron Sources”.
+
 **San Francisco, USA, ICAPP 2016**
 Oral presentation at the “International Congress on Advances in Nuclear Power Plants”.
+
 **Metz, France, ICU 2015**
 Oral presentation at the conference “International congress on ultrasonics”.
+
 **Tomsk, Russia 2014**
 Oral presentation at the “The IV Conference of Young nuclear scientists of Siberia"
+
 *Griffith University 3-day course “Introduction to Python, Bash and Git for Data Science’’ (July, 2019)
+
 *“Author Academy” 2-day intensive training in academic writing and publishing by Nature Research Academies (November, 2017)
+
 *National research Tomsk Polytechnic University “Elite Engineering Education Programme” aiming at acquiring competencies in Engineering leadership and innovation (3133 hours, 2009-2014)
 
 ## Grants and Awards
@@ -96,13 +106,8 @@ Oral presentation at the “The IV Conference of Young nuclear scientists of Sib
 #### Case-hardening testing 
 
 
-<!-**Role:** Organizing committee 2016 - 2021
-
-**Role:** Key Organizer 2018
-
-
-#### Hacky Hour Handbook - Author 2017
-Wrote a handbook on how to start and run hacky hour groups at an institute with lessons learnt, helpful resources and groups to target. Released as Creative Commons [Link here](https://github.com/amandamiotto/HackyHourHandbook)--->. 
+<!-- **Role:** Organizing committee 2016 - 2021 **Role:** Key Organizer 2018 #### Hacky Hour Handbook - Author 2017
+Wrote a handbook on how to start and run hacky hour groups at an institute with lessons learnt, helpful resources and groups to target. Released as Creative Commons [Link here](https://github.com/amandamiotto/HackyHourHandbook) -->
 
 
 ## Publications
