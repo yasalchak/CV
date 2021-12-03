@@ -81,7 +81,7 @@ DOI: 10.1109/TBME.2019.2916632
 
 **Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function**
 Y. A. Salchak*, N. Albadri, D. V. Thiel, and H. Espinosa
-*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*!
+*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*
 [Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
 
 
