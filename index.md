@@ -22,7 +22,6 @@ family status Single |
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-
 |Tomsk Open Laboratory for Material Inspection (TOLMI), Institute of Nondestructive Testing (NDT), National Research Tomsk Polytechnic University (TPU), Russia |*Technician* |2014-2015|
 |TOLMI, Institute of NDT, TPU, Russia |Junior Researcher |2015-2018|
 |School of Engineering and Built Environment, Griffith University, QLD Australia   |PhD Student       |2018-Present|
@@ -75,15 +74,15 @@ Wrote a handbook on how to start and run hacky hour groups at an institute with 
 
 ## Publications
 
-**Acceso a recursos de cómputo de alto rendimiento mediante correo electrónico (Access to high performance computing resources via email)**
-Estévez-Velarde, S., Miotto, A., Bolufé-Röhler, A., & Chen, S. 2014
-https://experts.griffith.edu.au/publication/n4c4419aae6abe7655f9b1611680dd0f1
+**Modelling the surface field from an ingested radio transmitter with an approximate attenuation model for gastroenterology investigations**
+Y. A. Salchak, H. G. Espinosa, and D. V. Thiel 2020 
+*IEEE Transactions on Biomedical Engineering, vol. 67 (2)*
+DOI: 10.1109/TBME.2019.2916632
 
-
-**Invited Editorial for Artificial Organs Journal**
-OpenHeart Project – An Open-Source Research Community in the Field of Mechanical Circulatory Support
-Jo P Pauls, Amanda Miotto, Andrew Stephens, Shaun D Gregory, Geoff Tansley 2018
-![](/assets/Linkedin.svg)
+**Location Accuracy Estimates of an Ingested Wireless Endoscopy Capsule based on an RSSI Cost Function**
+Y. A. Salchak*, N. Albadri, D. V. Thiel, and H. Espinosa
+*Proceedings on 2020 IEEE International Symposium on Antennas and Propagation and North American Radio Science Meeting, Montreal, Canada, 2020, pp. 99- 100*!
+[Available online](https://www.usnc-ursi-archive.org/aps-ursi/2020/pdfs/0000099.pdf)
 
 
 ![logo]
