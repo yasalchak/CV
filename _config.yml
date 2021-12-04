@@ -8,9 +8,6 @@ colour3: " #f5820e"  # colour of Menu links
 colour4: "  #EAF2F8 " # trying to be background colour - still experimenting 
 colour5: " #EAF2F8" # menu link colour when hover
 
-  
-theme: jekyll-theme-minimal
-
 #
 # This file contains meta data for various social media sites
 email:
