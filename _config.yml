@@ -1,4 +1,4 @@
-description: This is a template researchers can walk away with and create their own Portfolio.
+description: Yana Salchak Open CV.
 datelastupdated: 25 Nov 2021
 fullnameofperson: Yana Salchak
 selfIdentification: PhD Candidate | Biomedical Engineering
@@ -7,6 +7,9 @@ colour2: " #f5820e"  # colour of name and desc
 colour3: " #f5820e"  # colour of Menu links
 colour4: "  #EAF2F8 " # trying to be background colour - still experimenting 
 colour5: " #EAF2F8" # menu link colour when hover
+
+  
+theme: jekyll-theme-minimal
 
 #
 # This file contains meta data for various social media sites
